@@ -1,0 +1,1 @@
+Trying to make sure I have versions of my code to roll back to rather than just editing the same V0.1 file from concept to final code. and also doing it on more than one computer is good but sure thats what github is for.
